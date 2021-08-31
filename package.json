@@ -1,7 +1,7 @@
 {
-  "name": "@Gum/react-native-video-watermarker",
+  "name": "@gum/react-native-video-watermarker",
   "title": "React Native Video Watermarker",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "use image as watermark over video",
   "main": "index.js",
   "scripts": {
