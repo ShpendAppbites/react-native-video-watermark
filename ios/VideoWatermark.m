@@ -51,7 +51,7 @@ RCT_EXPORT_METHOD(convert:(NSString *)videoUri imageUri:(nonnull NSString *)imag
             break;        
 
         case 3:
-            [myImage drawInRect:CGRectMake(sizeOfVideo.width - 300, 0, 300, 300)];
+            [myImage drawInRect:CGRectMake(sizeOfVideo.width-39,200, 35, 50)];
             break;        
 
         case 4:
