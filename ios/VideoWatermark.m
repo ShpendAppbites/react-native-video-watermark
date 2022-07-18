@@ -43,7 +43,7 @@ RCT_EXPORT_METHOD(convert:(NSString *)videoUri imageUri:(nonnull NSString *)imag
     int watermarkPositionInt = [MyFunctions getWatermarkInt:watermarkPosition];
     switch(watermarkPositionInt) {
         case 1:
-            [myImage drawInRect:CGRectMake(0, 300,35, 50)];
+            [myImage drawInRect:CGRectMake(10, 300,35, 50)];
             break;        
 
         case 2:
